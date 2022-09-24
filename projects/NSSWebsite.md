@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/gh2.jpg
-title: "NSS Webiste (Blog/Events)"
-date: 2021
+title: "NSS Website (Blog/Events)"
+date: 2022
 published: true
 labels:
   - JavaScript
