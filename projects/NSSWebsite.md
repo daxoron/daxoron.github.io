@@ -20,4 +20,4 @@ Deploy Link : - <a href = "https://daxoron.github.io/NSSWebsite">Click Here</a>
 <img class="img-fluid" src="../img/ss2.png">
 <hr>
 
-Source: <a href="https://github.com/daxoron/NSSWebsite"><i class="large github icon "></i>NSS Website - Blogs and Events</a>
+GitHub Repository: <a href="https://github.com/daxoron/NSSWebsite"><i class="large github icon "></i>NSS Website - Blogs and Events</a>

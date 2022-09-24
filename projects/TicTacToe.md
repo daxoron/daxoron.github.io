@@ -19,4 +19,4 @@ Deploy Link : - <a href = "https://daxoron.github.io/TicTacToe">Click Here</a>
 <img class="img-fluid" src="../img/ss1.png">
 <hr>
 
-Source: <a href="https://github.com/daxoron/TicTacToe"><i class="large github icon "></i>Tic Tac Toe</a>
+GitHub Repository: <a href="https://github.com/daxoron/TicTacToe"><i class="large github icon "></i>Tic Tac Toe</a>

@@ -22,4 +22,4 @@ Screenshot#1:
 </pre>
 <hr>
 
-Source: <a href="https://github.com/daxoron/GitHubRepoLister"><i class="large github icon "></i>Github Repository Lister</a>
+GitHub Repository: <a href="https://github.com/daxoron/GitHubRepoLister"><i class="large github icon "></i>Github Repository Lister</a>
