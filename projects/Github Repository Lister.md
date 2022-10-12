@@ -7,8 +7,7 @@ date: 2022
 published: true
 labels:
   - JavaScript
-  - GitHub
-  - HTML5
+  - ReactJs
   - Bootstrap
 summary: "It Lists all The Repositories, of the entered GitHub Username."
 ---
@@ -19,6 +18,7 @@ Deploy Link : - <a href = "https://github-repo-lister.netlify.app/">Click Here</
 
 Screenshot#1:
 <img class="img-fluid" src="../img/ss.png">
+<img class="img-fluid" src="../img/ss_1.png">
 </pre>
 <hr>
 
