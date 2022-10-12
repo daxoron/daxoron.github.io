@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Anish Kr Singh",
-    "label": "B.Tech Computer Science Junior",
+    "label": "Software Engineer Inter @ Fyle Technologies",
     "picture": "https://i.ibb.co/0nh7n2n/anish.jpg",
     "email": "daxoron.dev@gmail.com",
     "phone": "+918207893972",
     "website": "https://daxoron.github.io",
-    "summary": "Pursuing B.Tech in Computer Science in Dr. APJAKT University. I expect to graduate in 2024.",
-    "location": { "address": "", "postalCode": "201301", "city": "Noida", "countryCode": "India", "region": "Noida" },
+    "summary": "B.Tech in Computer Science from Dr. APJAKT University. I Expect to Graduate in 2024.",
+    "location": { "address": "", "postalCode": "201301", "city": "Gurugram", "countryCode": "India", "region": "Gurugram" },
     "profiles": [
       { "network": "github", "username": "daxoron", "url": "http://github.com/daxoron" },
       { "network": "linkedin", "username": "kr-anish", "url": "http://linkedin.com/in/kr-anish" },
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "React.js" ]
+      "keywords": [ "C", "C++", "TypeScript", "JavaScript", "Angular.js" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,7 +32,7 @@
   "education": [
     {
       "institution": "Dr. APJAKT University, India",
-      "area": "Computer Science (expected 2024)",
+      "area": "Computer Science (Expected 2024)",
       "studyType": "B.Tech",
       "startDate": "2020-09-01",
       "endDate": "Present",
