@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Anish Kr Singh",
-    "label": "Software Engineer Inter @ Fyle Technologies",
+    "label": "🏆 Software Engineering Intern @ Fyle Technologies",
     "picture": "https://i.ibb.co/0nh7n2n/anish.jpg",
     "email": "daxoron.dev@gmail.com",
     "phone": "+918207893972",
     "website": "https://daxoron.github.io",
-    "summary": "B.Tech in Computer Science from Dr. APJAKT University. I Expect to Graduate in 2024.",
+    "summary": "B.Tech Computer Science from Dr. APJAKT University. I Expect to Graduate in 2024.",
     "location": { "address": "", "postalCode": "201301", "city": "Gurugram", "countryCode": "India", "region": "Gurugram" },
     "profiles": [
       { "network": "github", "username": "daxoron", "url": "http://github.com/daxoron" },
