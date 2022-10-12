@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gh.png
+image: img/gh4.jpg
 title: "Note Keeper"
 date: 2021
 published: true
@@ -17,7 +17,7 @@ summary: "It Creates Notes with Entered Title and Description."
 Deploy Link : - <a href = "https://daxoron.github.io/NoteKeeper">Click Here</a>
 <hr>
 
-Screenshot#1:
+Screenshot:
 <img class="img-fluid" src="../img/ss4.png">
 </pre>
 <hr>

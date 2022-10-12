@@ -16,6 +16,7 @@ summary: "8 Bit Themed Car Game. It is Hosted Using GitHub Pages."
 <pre>
 Deploy Link(Only Works Best in Desktop) : - <a href = "https://daxoron.github.io/CarGame">Click Here</a>
 </pre>
+Screenshot:
 <img class="img-fluid" src="../img/ss3.png">
 <hr>
 

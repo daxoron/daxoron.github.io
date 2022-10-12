@@ -16,7 +16,7 @@ summary: "It Lists all The Repositories, of the entered GitHub Username."
 Deploy Link : - <a href = "https://github-repo-lister.netlify.app/">Click Here</a>
 <hr>
 
-Screenshot#1:
+Screenshot:
 <img class="img-fluid" src="../img/ss.png">
 <img class="img-fluid" src="../img/ss_1.png">
 </pre>

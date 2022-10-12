@@ -17,6 +17,7 @@ summary: "Fully Responsive Website, enlisting Major Blogs and Events of The NSS 
 <pre>
 Deploy Link : - <a href = "https://daxoron.github.io/NSSWebsite">Click Here</a>
 </pre>
+Screenshot:
 <img class="img-fluid" src="../img/ss2.png">
 <hr>
 
